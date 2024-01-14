@@ -1,4 +1,4 @@
-# Podcast - Vad, hur varför?
+# Vad, hur varför?
 
 En podcast är on-demand radio för internet. Du kan besöka en webbplats, Spotify eller en podcastapp för att lyssna på nya avsnitt. Det rör sig primärt om audio, men ibland förekommer även video. Majoriteten av Svergies radios utbud finns tillgängligt som [poddar](https://sverigesradio.se/poddar-program).   
 
@@ -13,7 +13,7 @@ En podcast är on-demand radio för internet. Du kan besöka en webbplats, Spoti
 
 ## Starta en egen podcast   
 
-![KGB](https://github.com/tcstenungsund/podcast/assets/5168530/88c5a38c-16f4-477a-af21-1569daad3779)   
+[![KGB](https://github.com/tcstenungsund/podcast/assets/5168530/88c5a38c-16f4-477a-af21-1569daad3779)](https://github.com/tcstenungsund/podcast/assets/5168530/88c5a38c-16f4-477a-af21-1569daad3779)   
 
 ### Innehåll?  
 
